@@ -1,6 +1,5 @@
-## The powerpoint's draft shows the whole steps to run and create the retension model for production for lesmills. 
-  * all steps clearely explained in details and well structured for non thecknical people.
-  * part 2 is for those thecknical people who are most familiar with pyhton programming language and concept of machin learning.
+## The PowerPoint draft outlines all the steps required to build and run the retention model for production at Les Mills. All steps are clearly explained in detail and structured in a way that is easy for non-technical people to follow and understand.
 
+   * Part 2 is designed for technical users who are more familiar with the Python programming language and machine learning concepts.
 
-## Please follow the powerpoint to recrate whole projects from scratch. remember that the project is just for guifing you to to don your own projects. 
+## Please follow the PowerPoint to recreate the entire project from scratch. Keep in mind that this project is intended as a guide to help you develop and build your own projects.
